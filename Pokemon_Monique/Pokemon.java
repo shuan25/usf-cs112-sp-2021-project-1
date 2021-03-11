@@ -1,5 +1,5 @@
 package cs112lectures;
-
+//This comment is added for In-Class Exercise Part II
 public class Pokemon {
   // Can only be accessed by the inherited class
   private String name;
